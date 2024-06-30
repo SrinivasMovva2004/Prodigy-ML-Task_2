@@ -1,4 +1,5 @@
 # Prodigy-ML-Task_2
+LinkedIn Link:-https://www.linkedin.com/feed/update/urn:li:activity:7213068315655557120/
 K-means Clustering for Customer Segmentation
 This repository demonstrates K-means clustering for customer segmentation based on their annual income and spending score.
 
